@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiAppHospedagem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+746a503e4ca1c3bc024ea91c5b6aa837c1ee303d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+6b01211be502ed48025ebc6168957cde0a239fbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiAppHospedagem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiAppHospedagem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
